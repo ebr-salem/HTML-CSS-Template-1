@@ -256,6 +256,7 @@ services .services-content .col {
 services .services-content .col .srv {
     display: flex;
     margin-bottom: 40px;
+    height: 184px
 }
 
 @media (max-width: 767px) {
